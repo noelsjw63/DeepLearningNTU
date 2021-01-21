@@ -5,12 +5,8 @@
       <paths name="sjw29823@202.120.38.212:2542">
         <serverdata>
           <mappings>
-            <mapping deploy="/DeepLearning" local="$PROJECT_DIR$" />
+            <mapping deploy="/tmp/pycharm_project_854" local="$PROJECT_DIR$" />
           </mappings>
-          <excludedPaths>
-            <excludedPath local="true" path="$PROJECT_DIR$/CNN/food-11" />
-            <excludedPath path="/DeepLearning/CNN/food-11" />
-          </excludedPaths>
         </serverdata>
       </paths>
     </serverData>
