@@ -5,7 +5,17 @@
       <paths name="sjw29823@202.120.38.212:2542">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/pycharm_project_854" local="$PROJECT_DIR$" />
+            <mapping deploy="/home/sjw29823/DeepLearning" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/sjw29823/DeepLearning/CNN/food-11" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="sjw29823@202.120.38.212:2542 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/sjw29823/DeepLearning" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
